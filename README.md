@@ -1,12 +1,12 @@
+# Just go away. Leave.
+I am dropping this project. There is simply no point in making yet another C clone. Just use C, bro.
+
 # Stellar C
 Stellar C (formerly backtick-lang) AKA stellar-clang is a general purpose programming language that is currently in development.
 
 The main objective of the project is to develop a stable, multi-paradigm
 language with C-like syntax and performance which does all the hard things for you.
 Kinda like Rust but also C and stuff.
-
-# Rewrite
-The project is currently undergoing a major rewrite in C++ since C doesn't really support LLVM. DO NOT use the program while this message is visible. The parser is incomplete and won't function properly.
 
 Roadmap:
 
